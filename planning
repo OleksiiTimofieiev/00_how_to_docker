@@ -10,13 +10,6 @@
 #                                                                              #
 # **************************************************************************** #
 
-- handle docker and docker-machine
-- the bases to understand the idea of containerization of services
-- docker 1.12 at least. run docker version. Brew always provides the latest version of docker... just saying.
-
-- have the docker-machine binary available on your dump before you start exploring the wonderful world of containers, and foe the bonuses. Read the docker documentation available online to install it if necessary.
-- Take the time to read the documentation thoroughly. You will have to sooner or later anyway.
-- official docker documentation at hand in order to handle properly your future containers
 - You should also take a look at the documentation for the official containers we will ask you to im- plement throughout this project.
 - For the evaluation, the containers will be hosted on the correction dump and locally.
 - For storage reasons, we advise you to move your ".docker" and
